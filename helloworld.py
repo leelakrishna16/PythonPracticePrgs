@@ -1,0 +1,10 @@
+#! /usr/bin/python3
+#a = input('Enter the name:')
+#print('Hellp', a)
+#print ('hello python world')
+x = int(input('Enter the frist no:'))
+y = int(input('Enter the second no:'))
+print(x+y)
+print(x*y)
+print(x/y)
+print(x-y)

@@ -1,0 +1,11 @@
+#! /usr/bin/python3
+tuplex = tuple('krishnakarri')
+print(tuplex)
+index = tuplex.index('a')
+print(index)
+index = tuplex.index('n',5)
+print(index)
+#index = tuplex.index('r',2,6)
+#print(index)
+index = tuplex.index('i')
+print(index)
