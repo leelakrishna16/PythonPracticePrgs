@@ -44,3 +44,4 @@ from string import Template
 s = Template('My name is $a, hi $a welocone to program')
 s.substitute(a='leelakrishna')
 #print('s-->', s)
+print("script had completed")
